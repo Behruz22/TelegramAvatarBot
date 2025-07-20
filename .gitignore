@@ -387,3 +387,4 @@ FodyWeavers.xsd
 
 # Bot token (security)
 appsettings.json
+.idea
